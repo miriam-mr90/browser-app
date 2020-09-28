@@ -12,7 +12,7 @@ const theme = {
 
         tableHeader: '#272727',
         tableRows: '#1A1A1A',
-        tableBorders: '#282727',
+        tableBorders: '#2C2C2C',
     },
     font: {
         body: 'PT Sans, sans-serif',

@@ -4,6 +4,7 @@ import styled from "styled-components";
 import { ReactComponent as OrderIcon } from '../images/order.svg';
 
 const StyledDataTable = styled.table`
+    border-collapse: collapse;
     border-spacing: 0;
     text-align: left;
 
