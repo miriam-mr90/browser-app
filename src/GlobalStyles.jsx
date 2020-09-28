@@ -42,7 +42,7 @@ export default createGlobalStyle`
         flex-direction: column;
         margin-left: auto;
         margin-right: auto;
-        max-width: 100%;
-        width: 1450px;
+        max-width: 1450px;
+        padding: 0 14px;
     }
 `;
